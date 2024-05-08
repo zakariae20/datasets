@@ -1,0 +1,42 @@
+Weather,Day_of_the_Week,Time_of_Day,Mood,Physical_Fitness,Commitments,Friends_Availability,Injury_Health,Game_Importance,Field_Accessibility,Play_Football?
+Sunny,Weekend,Afternoon,Happy,High,None,Available,No,Casual,Nearby,1
+Rainy,Weekday,Evening,Tired,Medium,Work,Not available,No,Competitive,Far,0
+Cloudy,Weekend,Morning,Energetic,High,None,Available,Yes,Casual,Nearby,1
+Sunny,Weekend,Afternoon,Content,High,None,Available,No,Casual,Nearby,0
+Rainy,Weekday,Evening,Happy,Low,Meeting,Not available,Yes,Competitive,Far,0
+Cloudy,Weekday,Morning,Content,Medium,Work,Available,No,Casual,Nearby,1
+Sunny,Weekend,Evening,Happy,High,None,Available,No,Competitive,Far,1
+Rainy,Weekday,Afternoon,Tired,Medium,Meeting,Not available,Yes,Casual,Nearby,0
+Cloudy,Weekend,Morning,Content,High,None,Available,No,Competitive,Far,1
+Sunny,Weekday,Afternoon,Happy,High,Work,Not available,Yes,Casual,Nearby,0
+Rainy,Weekend,Evening,Tired,Low,None,Available,No,Competitive,Far,0
+Cloudy,Weekday,Morning,Energetic,High,Meeting,Not available,Yes,Casual,Nearby,1
+Sunny,Weekend,Afternoon,Content,High,None,Available,No,Competitive,Far,1
+Rainy,Weekday,Evening,Happy,Medium,Work,Not available,No,Casual,Nearby,0
+Cloudy,Weekend,Morning,Happy,High,None,Available,Yes,Competitive,Far,1
+Sunny,Weekday,Afternoon,Content,High,Meeting,Not available,No,Casual,Nearby,0
+Rainy,Weekend,Evening,Tired,Low,None,Available,Yes,Competitive,Far,0
+Cloudy,Weekday,Morning,Happy,High,Work,Not available,Yes,Casual,Nearby,1
+Sunny,Weekend,Afternoon,Happy,High,None,Available,No,Competitive,Far,1
+Rainy,Weekday,Evening,Tired,Low,Meeting,Not available,No,Casual,Nearby,0
+Cloudy,Weekend,Morning,Energetic,High,None,Available,Yes,Competitive,Far,1
+Sunny,Weekday,Afternoon,Content,High,Work,Not available,Yes,Casual,Nearby,0
+Rainy,Weekend,Evening,Happy,Medium,None,Available,No,Competitive,Far,0
+Cloudy,Weekday,Morning,Content,High,Meeting,Not available,Yes,Casual,Nearby,1
+Sunny,Weekend,Afternoon,Happy,High,None,Available,No,Competitive,Far,1
+Rainy,Weekday,Evening,Tired,Medium,Work,Not available,Yes,Casual,Nearby,0
+Cloudy,Weekend,Morning,Energetic,High,None,Available,No,Competitive,Far,1
+Sunny,Weekday,Afternoon,Content,High,Meeting,Not available,No,Casual,Nearby,0
+Rainy,Weekend,Evening,Happy,Low,None,Available,Yes,Competitive,Far,0
+Cloudy,Weekday,Morning,Happy,High,Work,Not available,Yes,Casual,Nearby,1
+Sunny,Weekend,Afternoon,Content,High,None,Available,No,Competitive,Far,1
+Rainy,Weekday,Evening,Happy,Medium,Meeting,Not available,No,Casual,Nearby,0
+Cloudy,Weekend,Morning,Happy,High,None,Available,Yes,Competitive,Far,1
+Sunny,Weekday,Afternoon,Happy,High,Work,Not available,Yes,Casual,Nearby,0
+Rainy,Weekend,Evening,Tired,Low,None,Available,No,Competitive,Far,0
+Cloudy,Weekday,Morning,Energetic,High,Meeting,Not available,Yes,Casual,Nearby,1
+Sunny,Weekend,Afternoon,Happy,High,None,Available,No,Competitive,Far,1
+Rainy,Weekday,Evening,Tired,Medium,Work,Not available,Yes,Casual,Nearby,0
+Cloudy,Weekend,Morning,Energetic,High,None,Available,No,Competitive,Far,1
+Sunny,Weekday,Afternoon,Content,High,Meeting,Not available,No,Casual,Nearby,0
+Rainy,Weekend,Evening,Happy,Low,None,Available,Yes,Competitive,Far,0
